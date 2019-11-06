@@ -1,13 +1,13 @@
 # tinder
-simple python bot for automated tinder tasks
+Simple python bot for automated tinder tasks
 
-Properties and main usages,
-Auto login tinder without password, code or email and staying active during session,
-Auto swipe right based on the duration you defined, 
-Bypass new-match, tinder-plus or tinder-gold pop-ups,
-Adds free tinder usage,
-Getting data from tinder like the age,name or work of the match,
-Using these datas to send automated personalized messages,
-Sending automated messages to new matches,
-Calculating how many likes, new matches, messages are sent
+Properties and main usages, <br>
+Auto login tinder without password, code or email and staying active during session, <br>
+Auto swipe right based on the duration you defined,  <br>
+Bypass new-match, tinder-plus or tinder-gold pop-ups, <br>
+Adds free tinder usage, <br>
+Getting data from tinder like the age,name or work of the match, <br>
+Using these datas to send automated personalized messages, <br>
+Sending automated messages to new matches, <br>
+Calculating how many likes, new matches, messages are sent <br>
 Much more!
