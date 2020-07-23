@@ -4,7 +4,6 @@ import time
 import random
 class tinder:
   def Link_Connect(self):
-      tindprofile = webdriver.FirefoxProfile('C:/Users/Ongund/AppData/Roaming/Mozilla/Firefox/Profiles/7tv74fmp.tinderpro') 
       browser = webdriver.Firefox(tindprofile)
       browser.get('https://tinder.com/')
       time.sleep(10)
